@@ -12,6 +12,14 @@
         </contributor>
     </contributors>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/eblocker/eblocker-top</url>
+        </repository>
+    </distributionManagement>
+
     <repositories>
         <repository>
             <id>4thline.org</id>
