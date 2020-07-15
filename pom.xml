@@ -6,6 +6,11 @@
     <version>2.3.12</version>
     <packaging>pom</packaging>
     <name>eBlocker - Common Project Definitions</name>
+    <contributors>
+        <contributor>
+            <name>mainzelM</name>
+        </contributor>
+    </contributors>
 
     <repositories>
         <repository>
